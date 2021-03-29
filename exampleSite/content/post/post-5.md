@@ -9,10 +9,6 @@ categories:
 tags:
 - tree
 - nice
-menu:
-  main:
-    name: US Stock
-    weight: 2
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
