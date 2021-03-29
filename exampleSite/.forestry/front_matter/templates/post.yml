@@ -25,5 +25,3 @@ fields:
 - type: list
   name: tags
   label: tags
-pages:
-- exampleSite/content/post/mar-29-2021.md
