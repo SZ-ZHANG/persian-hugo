@@ -20,10 +20,6 @@ name = "Sentiment"
 url = "categories/nature/"
 weight = 3
 [[menu.main]]
-name = "US Stock"
-url = "about"
-weight = 2
-[[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
