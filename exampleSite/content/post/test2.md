@@ -6,5 +6,8 @@ description = ""
 image = "/images/wfhh.png"
 tags = []
 title = "Test2 "
+[menu.main]
+name = "Home"
+weight = 1
 
 +++
