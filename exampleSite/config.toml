@@ -20,8 +20,8 @@ name = "Sentiment"
 url = "sentiment"
 weight = 3
 [[menu.main]]
-name = "News"
-url = "News"
+name = "Contact"
+url = "Contact"
 weight = 5
 [[menu.main]]
 name = "Contact"
