@@ -16,7 +16,7 @@ name = "US Stock"
 url = "about"
 weight = 2
 [[menu.main]]
-name = "US Stock"
+name = "Sentiment"
 url = "categories/nature/"
 weight = 3
 [[menu.main]]
