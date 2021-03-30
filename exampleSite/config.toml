@@ -24,8 +24,8 @@ name = "Contact"
 url = "Contact"
 weight = 5
 [[menu.main]]
-name = "Contact"
-url = "contact"
+name = "News"
+url = "News"
 weight = 4
 [outputs]
 home = ["HTML", "RSS", "json"]
