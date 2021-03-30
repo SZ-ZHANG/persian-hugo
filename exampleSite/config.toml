@@ -32,7 +32,7 @@ home = ["HTML", "RSS", "json"]
 [params]
 author = "SHEN"
 contact_form_action = "#"
-copyright = "Designed By Gophers Brothers"
+copyright = "Designed By Gopher Brothers"
 description = ""
 logo = "images/gophersLogo.png"
 search = true
